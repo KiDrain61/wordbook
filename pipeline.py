@@ -1,6 +1,5 @@
 import os
 
-
 def pipline():
     """
     批量生成 10 个单词本
